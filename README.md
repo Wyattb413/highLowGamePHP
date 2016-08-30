@@ -1,0 +1,1 @@
+This is a simple High/Low game made in PHP
